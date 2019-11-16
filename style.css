@@ -102,3 +102,11 @@ nav{
 .toggle .line3{
     transform: rotate(30deg) translate(-5px,-6px);
 }
+
+.tittle{
+  color: darkslategrey;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
