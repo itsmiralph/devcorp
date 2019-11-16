@@ -103,12 +103,13 @@ nav{
     transform: rotate(45deg) translate(-5px,-6px);
 }
 
-.tittle{
+.tittle1{
   color: darkslategrey;
+  text-decoration: underline;
   letter-spacing: 3px;
   font-weight: bold;
-  font-size: 14px;
-  padding: 20px;
+  font-size: 20px;
+  padding: 10px;
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  margin: 0 50px;
 }
