@@ -9,7 +9,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: #92d0f0;
+    background-color: #70d0f0;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -55,7 +55,8 @@ nav{
 }
 @media screen and (max-width:768px){
     body{
-        overflow-x: hidden;
+      background-image: linear-gradient(120deg,#63cdda,#2d98da);
+      overflow-x: hidden;
     }
     .nav-links{
          position: absolute;
