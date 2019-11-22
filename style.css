@@ -9,7 +9,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: #70d0f0;
+    background-color: #63cdda;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -63,7 +63,7 @@ nav{
          right: 0px;
          height: 92vh;
          top: 8vh;
-         background-color: #add7ec;
+         background-color: #4bcffa;
          display: flex;
          flex-direction: column;
          align-items: center;
