@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+.text{
+  text-align: center;
+  font-family: 'Monserrat', sans-serif;
+  font-size: 22px;
+  text-decoration: underline;
+  margin: 15px;
+  color: darkslategrey;
+}
+
 body{
   background-image: linear-gradient(120deg,#63cdda,#2d98da);
 }
